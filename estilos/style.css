@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html, body {
+    background-color: #c0cbf7;
+}
+
+main {
+    background-color: #fff;
+    width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: #3e52a3; }
